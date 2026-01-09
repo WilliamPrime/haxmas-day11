@@ -1,5 +1,5 @@
 ---
-title: whos a good uppy
+title: whos a good ouppy
 description: YOU ARE!
 pubDate: Jan 1 1983
 ---
